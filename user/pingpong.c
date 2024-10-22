@@ -32,6 +32,7 @@ int main(char argc,char *argv[])
         printf("%d : %s\n",pid_father,buf2);
         exit(0);
        
+       
     }
   
 }
